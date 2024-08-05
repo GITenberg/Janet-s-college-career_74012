@@ -1,0 +1,34 @@
+_repo: Janet-s-college-career_74012
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74012'
+  lccn: '04025101'
+language: en
+pgterms:marc905: 20240626092813blanchard
+pgterms:marc906: '1904'
+pgterms:marc907: US
+publication_note: '  $aPhiladelphia :$bGeorge W. Jacobs & Co., $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'College students -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Janet's college career
+url: http://www.gutenberg.org/ebooks/74012
